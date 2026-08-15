@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="290" viewBox="0 0 720 290" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="306" viewBox="0 0 720 306" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
 <defs>
 <style>
   text { white-space: pre; }
@@ -15,30 +15,30 @@
 </style>
 </defs>
 
-<rect width="720" height="290" fill="#050505"/>
-<rect x="1" y="1" width="718" height="288" fill="none" stroke="#1f1f23" stroke-width="1"/>
+<rect width="720" height="306" fill="#050505"/>
+<rect x="1" y="1" width="718" height="304" fill="none" stroke="#1f1f23" stroke-width="1"/>
 
-<text x="24" y="24">
+<text x="24" y="25">
   <tspan class="muted">andres@blanco</tspan>
   <tspan class="dim">:~$ </tspan>
   <tspan class="fg">ls ~/projects</tspan>
 </text>
-<rect x="24" y="42" width="672" height="1" fill="#2e2e33"/>
+<rect x="24" y="45" width="640" height="1" fill="#2e2e33"/>
 
 <g>
-  <text x="24" y="72"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="324">Learn with songs — Whisper · Genius · React</tspan></text>
-  <text x="24" y="102"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="324">OCR text capture — Tesseract · SQLite</tspan></text>
-  <text x="24" y="132"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="324">Face detection · dedup · CLIP</tspan></text>
-  <text x="24" y="162"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="324">Arduino firmware · uinput (Linux)</tspan></text>
-  <text x="24" y="192"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="324">CP2077 UI replica — React 19 · TS</tspan></text>
-  <text x="24" y="222"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="324">Remote control of OpenCode tasks</tspan></text>
+  <text x="24" y="76"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="360">Learn with songs — Whisper · Genius</tspan></text>
+  <text x="24" y="108"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="360">OCR capture — Tesseract · SQLite</tspan></text>
+  <text x="24" y="140"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="360">Face detection · dedup · CLIP</tspan></text>
+  <text x="24" y="172"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="360">Arduino firmware · uinput (Linux)</tspan></text>
+  <text x="24" y="204"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="360">CP2077 UI replica — React 19 · TS</tspan></text>
+  <text x="24" y="236"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="360">Remote control of OpenCode tasks</tspan></text>
 </g>
 
-<rect x="24" y="252" width="672" height="1" fill="#2e2e33"/>
+<rect x="24" y="260" width="640" height="1" fill="#2e2e33"/>
 
-<text x="24" y="274">
+<text x="24" y="284">
   <tspan class="muted">andres@blanco</tspan>
   <tspan class="dim">:~$</tspan>
 </text>
-<rect class="caret" x="183" y="261" width="2" height="13" fill="#71717a"/>
+<rect class="caret" x="174" y="271" width="2" height="13" fill="#71717a"/>
 </svg>
