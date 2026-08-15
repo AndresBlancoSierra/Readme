@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="264" viewBox="0 0 720 264" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
+<defs>
+<style>
+  text { white-space: pre; }
+  .fg    { fill: #f4f4f5; }
+  .muted { fill: #a1a1aa; }
+  .dim   { fill: #71717a; }
+  .faint { fill: #52525b; }
+  .line  { fill: #2e2e33; }
+  .caret { animation: blink 1s steps(1,end) infinite; }
+  @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .caret { animation: none !important; }
+  }
+</style>
+</defs>
+
+<rect width="720" height="264" fill="#050505"/>
+<rect x="1" y="1" width="718" height="262" fill="none" stroke="#1f1f23" stroke-width="1"/>
+
+<text x="24" y="24">
+  <tspan class="muted">andres@blanco</tspan>
+  <tspan class="dim">:~$ </tspan>
+  <tspan class="fg">ls ~/projects</tspan>
+</text>
+<rect x="24" y="42" width="672" height="1" fill="#2e2e33"/>
+
+<g>
+  <text x="24" y="70"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="324">Learn with songs — Whisper · Genius · React</tspan></text>
+  <text x="24" y="98"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="324">OCR text capture — Tesseract · SQLite</tspan></text>
+  <text x="24" y="126"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="324">Face detection · dedup · CLIP</tspan></text>
+  <text x="24" y="154"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="324">Arduino firmware · uinput (Linux)</tspan></text>
+  <text x="24" y="182"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="324">CP2077 UI replica — React 19 · TS</tspan></text>
+  <text x="24" y="210"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="324">Remote control of OpenCode tasks</tspan></text>
+</g>
+
+<text x="24" y="242">
+  <tspan class="muted">andres@blanco</tspan>
+  <tspan class="dim">:~$</tspan>
+</text>
+<rect class="caret" x="183" y="229" width="2" height="13" fill="#71717a"/>
+</svg>
