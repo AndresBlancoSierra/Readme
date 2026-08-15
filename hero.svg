@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
 <defs>
 <style>
   text { white-space: pre; }
@@ -19,8 +19,8 @@
 </style>
 </defs>
 
-<rect width="720" height="460" fill="#050505"/>
-<rect x="1" y="1" width="718" height="458" fill="none" stroke="#1f1f23" stroke-width="1"/>
+<rect width="720" height="410" fill="#050505"/>
+<rect x="1" y="1" width="718" height="408" fill="none" stroke="#1f1f23" stroke-width="1"/>
 
 <g class="faint">
   <circle class="star"  cx="48"  cy="40"  r="0.9"/>
@@ -28,49 +28,42 @@
   <circle class="star"  cx="110" cy="60"  r="0.9"/>
   <circle class="starb" cx="150" cy="250" r="1.1"/>
   <circle class="star"  cx="40"  cy="200" r="0.9"/>
-  <circle class="starb" cx="80"  cy="430" r="1.1"/>
-  <circle class="star"  cx="140" cy="400" r="0.9"/>
+  <circle class="starb" cx="80"  cy="380" r="1.1"/>
+  <circle class="star"  cx="140" cy="390" r="0.9"/>
   <circle class="starb" cx="330" cy="25"  r="1.1"/>
-  <circle class="star"  cx="420" cy="455" r="0.9"/>
-  <circle class="starb" cx="500" cy="20"  r="1.1"/>
-  <circle class="star"  cx="560" cy="445" r="0.9"/>
-  <circle class="starb" cx="640" cy="55"  r="1.1"/>
-  <circle class="star"  cx="690" cy="340" r="0.9"/>
-  <circle class="starb" cx="700" cy="150" r="1.1"/>
-  <circle class="star"  cx="620" cy="420" r="0.9"/>
-  <circle class="starb" cx="60"  cy="120" r="1.1"/>
+  <circle class="star"  cx="700" cy="25"  r="0.9"/>
+  <circle class="starb" cx="680" cy="60"  r="1.1"/>
+  <circle class="star"  cx="360" cy="395" r="0.9"/>
+  <circle class="starb" cx="655" cy="380" r="1.1"/>
+  <circle class="star"  cx="700" cy="290" r="0.9"/>
+  <circle class="starb" cx="665" cy="250" r="1.1"/>
+  <circle class="star"  cx="50"  cy="350" r="0.9"/>
 </g>
 
-<text x="24" y="112"><tspan class="faint">       </tspan><tspan class="muted">*</tspan></text>
-<text x="24" y="140"><tspan class="faint">       |</tspan></text>
-<text x="24" y="168"><tspan class="faint">  </tspan><tspan class="muted">*</tspan><tspan class="faint">----+----</tspan><tspan class="muted">*</tspan></text>
-<text x="24" y="196"><tspan class="faint">       |</tspan></text>
-<text x="24" y="224"><tspan class="faint">   </tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan></text>
-<text x="24" y="252"><tspan class="faint">      / \</tspan></text>
-<text x="24" y="280"><tspan class="faint">     /   \</tspan></text>
-<text x="24" y="308"><tspan class="faint">    </tspan><tspan class="muted">*</tspan><tspan class="faint">     </tspan><tspan class="muted">*</tspan></text>
-
-<text x="200" y="52">
-  <tspan class="fg">andres@blanco</tspan>
+<text x="24" y="40">
+  <tspan class="muted">andres@blanco</tspan>
   <tspan class="dim">:~$</tspan>
 </text>
-<rect class="caret" x="359" y="39" width="2" height="13" fill="#71717a"/>
-<rect x="200" y="72" width="490" height="1" fill="#2e2e33"/>
+<rect class="caret" x="174" y="27" width="2" height="13" fill="#71717a"/>
+<rect x="24" y="60" width="640" height="1" fill="#2e2e33"/>
 
-<text x="200" y="96"><tspan class="dim">NAME</tspan><tspan class="muted" x="340">Andres Blanco</tspan></text>
-<text x="200" y="126"><tspan class="dim">ROLE</tspan><tspan class="muted" x="340">Systems Engineering Student</tspan></text>
-<text x="200" y="156"><tspan class="dim">EDUCATION</tspan><tspan class="muted" x="340">B.S. Systems Engineering · EAN 2027</tspan></text>
-<text x="200" y="186"><tspan class="dim">LOCATION</tspan><tspan class="muted" x="340">Bogotá, Colombia</tspan></text>
-<text x="200" y="216"><tspan class="dim">LANG</tspan><tspan class="muted" x="340">Python · TypeScript · SQL · Bash · C++</tspan></text>
-<text x="200" y="246"><tspan class="dim">BACKEND</tspan><tspan class="muted" x="340">FastAPI · Node.js · Express · Laravel</tspan></text>
-<text x="200" y="276"><tspan class="dim">FRONTEND</tspan><tspan class="muted" x="340">React 19 · Vite · Tailwind · Next.js</tspan></text>
-<text x="200" y="306"><tspan class="dim">AI/ML</tspan><tspan class="muted" x="340">Whisper · CLIP · OpenCV · InsightFace</tspan></text>
-<text x="200" y="336"><tspan class="dim">SYS</tspan><tspan class="muted" x="340">Arch Linux (Hyprland) · Docker · systemd</tspan></text>
+<text x="24" y="104" font-size="20"><tspan class="fg">Andres Blanco</tspan></text>
+<text x="24" y="142"><tspan class="muted">Systems Engineering Student</tspan></text>
+<text x="24" y="170"><tspan class="muted">Bogotá · Colombia</tspan></text>
 
-<rect x="200" y="362" width="490" height="1" fill="#2e2e33"/>
+<text x="24" y="226"><tspan class="dim">software · cloud · security · linux</tspan></text>
 
-<text x="200" y="388"><tspan class="dim">DOMAINS</tspan><tspan class="muted" x="340">software · cloud · security · linux</tspan></text>
-<text x="200" y="414"><tspan class="dim">STATUS</tspan><tspan class="signal" x="340">OPEN TO WORK</tspan></text>
+<text x="24" y="278"><tspan class="signal">open to work</tspan></text>
 
-<text class="dim" x="360" y="440" text-anchor="middle">i build systems. i study how they work.</text>
+<text x="24" y="336"><tspan class="dim">i build systems.</tspan></text>
+<text x="24" y="364"><tspan class="dim">i study how they work.</tspan></text>
+
+<text x="480" y="136"><tspan class="faint">       </tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="164"><tspan class="faint">       |</tspan></text>
+<text x="480" y="192"><tspan class="faint">  </tspan><tspan class="muted">*</tspan><tspan class="faint">----+----</tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="220"><tspan class="faint">       |</tspan></text>
+<text x="480" y="248"><tspan class="faint">   </tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="276"><tspan class="faint">      / \</tspan></text>
+<text x="480" y="304"><tspan class="faint">     /   \</tspan></text>
+<text x="480" y="332"><tspan class="faint">    </tspan><tspan class="muted">*</tspan><tspan class="faint">     </tspan><tspan class="muted">*</tspan></text>
 </svg>

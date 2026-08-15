@@ -26,12 +26,12 @@
 <rect x="24" y="45" width="640" height="1" fill="#2e2e33"/>
 
 <g>
-  <text x="24" y="76"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="360">Learn with songs — Whisper · Genius</tspan></text>
-  <text x="24" y="108"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="360">OCR capture — Tesseract · SQLite</tspan></text>
-  <text x="24" y="140"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="360">Face detection · dedup · CLIP</tspan></text>
-  <text x="24" y="172"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="360">Arduino firmware · uinput (Linux)</tspan></text>
-  <text x="24" y="204"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="360">CP2077 UI replica — React 19 · TS</tspan></text>
-  <text x="24" y="236"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="360">Remote control of OpenCode tasks</tspan></text>
+  <text x="24" y="76"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="360">Learn with songs</tspan></text>
+  <text x="24" y="108"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="360">OCR text capture</tspan></text>
+  <text x="24" y="140"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="360">Face detection + CLIP</tspan></text>
+  <text x="24" y="172"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="360">Arduino + Linux uinput</tspan></text>
+  <text x="24" y="204"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="360">CP2077 UI in React</tspan></text>
+  <text x="24" y="236"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="360">Control OpenCode from Telegram</tspan></text>
 </g>
 
 <rect x="24" y="260" width="640" height="1" fill="#2e2e33"/>
