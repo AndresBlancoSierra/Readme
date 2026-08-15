@@ -41,48 +41,36 @@
   <circle class="starb" cx="60"  cy="120" r="1.1"/>
 </g>
 
-<text class="faint" x="24" y="100">
-  <tspan x="24" y="100">    *</tspan>
-  <tspan x="24" y="128">   / \</tspan>
-  <tspan x="24" y="156">  *   *</tspan>
-  <tspan x="24" y="184">   \ /</tspan>
-  <tspan x="24" y="212">    *</tspan>
-  <tspan x="24" y="240">   /|\</tspan>
-  <tspan x="24" y="268">  / | \</tspan>
-  <tspan x="24" y="296"> *  |  *</tspan>
-  <tspan x="24" y="324">    |</tspan>
-  <tspan x="24" y="352">    *</tspan>
-</text>
-<text class="muted" x="24" y="100">
-  <tspan x="24" y="100">    *</tspan>
-  <tspan x="24" y="156">  *   *</tspan>
-  <tspan x="24" y="212">    *</tspan>
-  <tspan x="24" y="296"> *  |  *</tspan>
-  <tspan x="24" y="352">    *</tspan>
-</text>
-<text class="faint" x="24" y="382">· engineering as a system ·</text>
+<text x="24" y="112"><tspan class="faint">       </tspan><tspan class="muted">*</tspan></text>
+<text x="24" y="140"><tspan class="faint">       |</tspan></text>
+<text x="24" y="168"><tspan class="faint">  </tspan><tspan class="muted">*</tspan><tspan class="faint">----+----</tspan><tspan class="muted">*</tspan></text>
+<text x="24" y="196"><tspan class="faint">       |</tspan></text>
+<text x="24" y="224"><tspan class="faint">   </tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan></text>
+<text x="24" y="252"><tspan class="faint">      / \</tspan></text>
+<text x="24" y="280"><tspan class="faint">     /   \</tspan></text>
+<text x="24" y="308"><tspan class="faint">    </tspan><tspan class="muted">*</tspan><tspan class="faint">     </tspan><tspan class="muted">*</tspan></text>
 
 <text x="200" y="52">
   <tspan class="fg">andres@blanco</tspan>
   <tspan class="dim">:~$</tspan>
 </text>
 <rect class="caret" x="359" y="39" width="2" height="13" fill="#71717a"/>
-<rect x="200" y="70" width="490" height="1" fill="#2e2e33"/>
+<rect x="200" y="72" width="490" height="1" fill="#2e2e33"/>
 
-<text x="200" y="98"><tspan class="dim">NAME</tspan><tspan class="muted" x="326">Andres Blanco</tspan></text>
-<text x="200" y="126"><tspan class="dim">ROLE</tspan><tspan class="muted" x="326">Systems Engineering Student</tspan></text>
-<text x="200" y="154"><tspan class="dim">EDUCATION</tspan><tspan class="muted" x="326">B.S. Systems Engineering · EAN 2027</tspan></text>
-<text x="200" y="182"><tspan class="dim">LOCATION</tspan><tspan class="muted" x="326">Bogotá, Colombia</tspan></text>
-<text x="200" y="210"><tspan class="dim">LANG</tspan><tspan class="muted" x="326">Python · TypeScript · SQL · Bash · C++</tspan></text>
-<text x="200" y="238"><tspan class="dim">BACKEND</tspan><tspan class="muted" x="326">FastAPI · Node.js · Express · Laravel</tspan></text>
-<text x="200" y="266"><tspan class="dim">FRONTEND</tspan><tspan class="muted" x="326">React 19 · Vite · Tailwind · Next.js</tspan></text>
-<text x="200" y="294"><tspan class="dim">AI/ML</tspan><tspan class="muted" x="326">Whisper · CLIP · OpenCV · InsightFace</tspan></text>
-<text x="200" y="322"><tspan class="dim">SYS</tspan><tspan class="muted" x="326">Arch Linux (Hyprland) · Docker · systemd</tspan></text>
+<text x="200" y="96"><tspan class="dim">NAME</tspan><tspan class="muted" x="326">Andres Blanco</tspan></text>
+<text x="200" y="124"><tspan class="dim">ROLE</tspan><tspan class="muted" x="326">Systems Engineering Student</tspan></text>
+<text x="200" y="152"><tspan class="dim">EDUCATION</tspan><tspan class="muted" x="326">B.S. Systems Engineering · EAN 2027</tspan></text>
+<text x="200" y="180"><tspan class="dim">LOCATION</tspan><tspan class="muted" x="326">Bogotá, Colombia</tspan></text>
+<text x="200" y="208"><tspan class="dim">LANG</tspan><tspan class="muted" x="326">Python · TypeScript · SQL · Bash · C++</tspan></text>
+<text x="200" y="236"><tspan class="dim">BACKEND</tspan><tspan class="muted" x="326">FastAPI · Node.js · Express · Laravel</tspan></text>
+<text x="200" y="264"><tspan class="dim">FRONTEND</tspan><tspan class="muted" x="326">React 19 · Vite · Tailwind · Next.js</tspan></text>
+<text x="200" y="292"><tspan class="dim">AI/ML</tspan><tspan class="muted" x="326">Whisper · CLIP · OpenCV · InsightFace</tspan></text>
+<text x="200" y="320"><tspan class="dim">SYS</tspan><tspan class="muted" x="326">Arch Linux (Hyprland) · Docker · systemd</tspan></text>
 
 <rect x="200" y="348" width="490" height="1" fill="#2e2e33"/>
 
-<text x="200" y="376"><tspan class="dim">DOMAINS</tspan><tspan class="muted" x="326">software · cloud · security · linux</tspan></text>
-<text x="200" y="404"><tspan class="dim">STATUS</tspan><tspan class="signal" x="326">OPEN TO WORK</tspan></text>
+<text x="200" y="374"><tspan class="dim">DOMAINS</tspan><tspan class="muted" x="326">software · cloud · security · linux</tspan></text>
+<text x="200" y="400"><tspan class="dim">STATUS</tspan><tspan class="signal" x="326">OPEN TO WORK</tspan></text>
 
-<text class="dim" x="360" y="432" text-anchor="middle">i build systems. i study how they work.</text>
+<text class="dim" x="360" y="430" text-anchor="middle">i build systems. i study how they work.</text>
 </svg>
