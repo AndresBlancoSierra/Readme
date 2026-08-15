@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="306" viewBox="0 0 720 306" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15">
 <defs>
 <style>
   text { white-space: pre; }
@@ -15,30 +15,31 @@
 </style>
 </defs>
 
-<rect width="720" height="306" fill="#050505"/>
-<rect x="1" y="1" width="718" height="304" fill="none" stroke="#1f1f23" stroke-width="1"/>
+<rect width="720" height="350" fill="#050505"/>
+<rect x="1" y="1" width="718" height="348" fill="none" stroke="#1f1f23" stroke-width="1"/>
 
-<text x="24" y="25">
+<text x="24" y="28" xml:space="preserve">
   <tspan class="muted">andres@blanco</tspan>
   <tspan class="dim">:~$ </tspan>
   <tspan class="fg">ls ~/projects</tspan>
 </text>
-<rect x="24" y="45" width="640" height="1" fill="#2e2e33"/>
+<rect class="caret" x="303" y="15" width="2" height="13" fill="#71717a"/>
+<rect x="24" y="68" width="640" height="1" fill="#2e2e33"/>
 
 <g>
-  <text x="24" y="76"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/what">what</a></tspan><tspan class="muted" x="360">Learn with songs</tspan></text>
-  <text x="24" y="108"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/english-capture">english-capture</a></tspan><tspan class="muted" x="360">OCR text capture</tspan></text>
-  <text x="24" y="140"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">portrait-dataset-builder</a></tspan><tspan class="muted" x="360">Face detection + CLIP</tspan></text>
-  <text x="24" y="172"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/guitar-hero-controller">guitar-hero-controller</a></tspan><tspan class="muted" x="360">Arduino + Linux uinput</tspan></text>
-  <text x="24" y="204"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/cp2077-ui-react">cp2077-ui-react</a></tspan><tspan class="muted" x="360">CP2077 UI in React</tspan></text>
-  <text x="24" y="236"><tspan class="dim">▸</tspan><tspan class="fg"><a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller">opencode-telegram-controller</a></tspan><tspan class="muted" x="360">Control OpenCode from Telegram</tspan></text>
+  <text x="24" y="112"><tspan class="dim">▸</tspan><tspan class="fg">what</tspan><tspan class="muted" x="360">Learn with songs</tspan></text>
+  <text x="24" y="144"><tspan class="dim">▸</tspan><tspan class="fg">english-capture</tspan><tspan class="muted" x="360">OCR text capture</tspan></text>
+  <text x="24" y="176"><tspan class="dim">▸</tspan><tspan class="fg">portrait-dataset-builder</tspan><tspan class="muted" x="360">Face detection + CLIP</tspan></text>
+  <text x="24" y="208"><tspan class="dim">▸</tspan><tspan class="fg">guitar-hero-controller</tspan><tspan class="muted" x="360">Arduino + Linux uinput</tspan></text>
+  <text x="24" y="240"><tspan class="dim">▸</tspan><tspan class="fg">cp2077-ui-react</tspan><tspan class="muted" x="360">CP2077 UI in React</tspan></text>
+  <text x="24" y="272"><tspan class="dim">▸</tspan><tspan class="fg">opencode-telegram-controller</tspan><tspan class="muted" x="360">Control OpenCode from Telegram</tspan></text>
 </g>
 
-<rect x="24" y="260" width="640" height="1" fill="#2e2e33"/>
+<rect x="24" y="296" width="640" height="1" fill="#2e2e33"/>
 
-<text x="24" y="284">
+<text x="24" y="332" xml:space="preserve">
   <tspan class="muted">andres@blanco</tspan>
   <tspan class="dim">:~$</tspan>
 </text>
-<rect class="caret" x="174" y="271" width="2" height="13" fill="#71717a"/>
+<rect class="caret" x="177" y="319" width="2" height="13" fill="#71717a"/>
 </svg>
