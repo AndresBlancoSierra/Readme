@@ -57,20 +57,20 @@
 <rect class="caret" x="359" y="39" width="2" height="13" fill="#71717a"/>
 <rect x="200" y="72" width="490" height="1" fill="#2e2e33"/>
 
-<text x="200" y="96"><tspan class="dim">NAME</tspan><tspan class="muted" x="326">Andres Blanco</tspan></text>
-<text x="200" y="124"><tspan class="dim">ROLE</tspan><tspan class="muted" x="326">Systems Engineering Student</tspan></text>
-<text x="200" y="152"><tspan class="dim">EDUCATION</tspan><tspan class="muted" x="326">B.S. Systems Engineering · EAN 2027</tspan></text>
-<text x="200" y="180"><tspan class="dim">LOCATION</tspan><tspan class="muted" x="326">Bogotá, Colombia</tspan></text>
-<text x="200" y="208"><tspan class="dim">LANG</tspan><tspan class="muted" x="326">Python · TypeScript · SQL · Bash · C++</tspan></text>
-<text x="200" y="236"><tspan class="dim">BACKEND</tspan><tspan class="muted" x="326">FastAPI · Node.js · Express · Laravel</tspan></text>
-<text x="200" y="264"><tspan class="dim">FRONTEND</tspan><tspan class="muted" x="326">React 19 · Vite · Tailwind · Next.js</tspan></text>
-<text x="200" y="292"><tspan class="dim">AI/ML</tspan><tspan class="muted" x="326">Whisper · CLIP · OpenCV · InsightFace</tspan></text>
-<text x="200" y="320"><tspan class="dim">SYS</tspan><tspan class="muted" x="326">Arch Linux (Hyprland) · Docker · systemd</tspan></text>
+<text x="200" y="96"><tspan class="dim">NAME</tspan><tspan class="muted" x="340">Andres Blanco</tspan></text>
+<text x="200" y="126"><tspan class="dim">ROLE</tspan><tspan class="muted" x="340">Systems Engineering Student</tspan></text>
+<text x="200" y="156"><tspan class="dim">EDUCATION</tspan><tspan class="muted" x="340">B.S. Systems Engineering · EAN 2027</tspan></text>
+<text x="200" y="186"><tspan class="dim">LOCATION</tspan><tspan class="muted" x="340">Bogotá, Colombia</tspan></text>
+<text x="200" y="216"><tspan class="dim">LANG</tspan><tspan class="muted" x="340">Python · TypeScript · SQL · Bash · C++</tspan></text>
+<text x="200" y="246"><tspan class="dim">BACKEND</tspan><tspan class="muted" x="340">FastAPI · Node.js · Express · Laravel</tspan></text>
+<text x="200" y="276"><tspan class="dim">FRONTEND</tspan><tspan class="muted" x="340">React 19 · Vite · Tailwind · Next.js</tspan></text>
+<text x="200" y="306"><tspan class="dim">AI/ML</tspan><tspan class="muted" x="340">Whisper · CLIP · OpenCV · InsightFace</tspan></text>
+<text x="200" y="336"><tspan class="dim">SYS</tspan><tspan class="muted" x="340">Arch Linux (Hyprland) · Docker · systemd</tspan></text>
 
-<rect x="200" y="348" width="490" height="1" fill="#2e2e33"/>
+<rect x="200" y="362" width="490" height="1" fill="#2e2e33"/>
 
-<text x="200" y="374"><tspan class="dim">DOMAINS</tspan><tspan class="muted" x="326">software · cloud · security · linux</tspan></text>
-<text x="200" y="400"><tspan class="dim">STATUS</tspan><tspan class="signal" x="326">OPEN TO WORK</tspan></text>
+<text x="200" y="388"><tspan class="dim">DOMAINS</tspan><tspan class="muted" x="340">software · cloud · security · linux</tspan></text>
+<text x="200" y="414"><tspan class="dim">STATUS</tspan><tspan class="signal" x="340">OPEN TO WORK</tspan></text>
 
-<text class="dim" x="360" y="430" text-anchor="middle">i build systems. i study how they work.</text>
+<text class="dim" x="360" y="440" text-anchor="middle">i build systems. i study how they work.</text>
 </svg>
