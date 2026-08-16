@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286px" height="130px" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16px">
+<defs>
+<style>
+text {{ white-space: pre; }}
+</style>
+</defs>
+<text x="18" y="24" fill="#f4f4f5" font-weight="bold">andres@arch</text><text x="123.6" y="24" fill="#a1a1aa" font-weight="bold">:~$ </text><text x="162.0" y="24" fill="#71717a" font-weight="bold"># streak</text><text x="18" y="48" fill="#71717a">TOTAL</text><text x="94.8" y="48" fill="#f4f4f5">149 contributions</text><text x="18" y="72" fill="#71717a">CURRENT</text><text x="114.0" y="72" fill="#f4f4f5">▸ 2 days</text><text x="18" y="96" fill="#71717a">LONGEST</text><text x="114.0" y="96" fill="#f4f4f5">▸ 3 days</text></svg>
