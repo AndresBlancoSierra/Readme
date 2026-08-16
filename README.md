@@ -1,29 +1,18 @@
-<p align="center">
-  <a href="https://github.com/AndresBlancoSierra">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/dark_mode.svg">
-      <img alt="Andrés Blanco profile — neofetch Matrix" src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/light_mode.svg">
-    </picture>
-  </a>
-</p>
+# Readme — Archivo legacy del perfil
 
-<p align="center">
-  <a href="https://github.com/AndresBlancoSierra/what"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-what.svg" alt="WHAT?"></a>
-  <a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-portrait-dataset-builder.svg" alt="Portrait Dataset Builder"></a>
-  <a href="https://github.com/AndresBlancoSierra/english-capture"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-english-capture.svg" alt="English Capture"></a>
-  <a href="https://github.com/AndresBlancoSierra/guitar-hero-controller"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-guitar-hero-controller.svg" alt="Guitar Hero Controller"></a>
-  <a href="https://github.com/AndresBlancoSierra/cp2077-ui-react"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-cp2077-ui-react.svg" alt="CP2077 UI"></a>
-  <a href="https://github.com/AndresBlancoSierra/opencode-telegram-controller"><img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/project-opencode-telegram-controller.svg" alt="OpenCode Telegram Controller"></a>
-</p>
+> ⚠️ **Repo de archivo histórico.** Este contenido corresponde al estilo terminal Vault-Tec (paleta verde) que se usaba antes en el perfil `AndresBlancoSierra`.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/dist/github-snake-dark.svg" alt="GitHub Snake">
-</p>
+## ¿Qué hay aquí?
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/streak.svg" alt="GitHub Streak">
-</p>
+- `generate_readme.py` — generador original (paleta verde Vault-Tec) que producía los SVGs del perfil.
+- `dark_mode.svg` / `light_mode.svg` — hero neofetch con logo Arch + FX CRT.
+- `project-*.svg` — un SVG por proyecto (clicables).
+- `streak.svg` / `contact.svg` — secciones del perfil.
+- `dist/` — snake de contribuciones generado por `Platane/snk` (verde).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresBlancoSierra/Readme/main/contact.svg" alt="Contact">
-</p>
+## Contexto
+
+El perfil principal (`AndresBlancoSierra`) ahora usa un **SVG unificado** en blanco/negro/escala de grises con fuente Inter, cometas y constelaciones animadas (deriva lenta). Este repo conserva la versión anterior para no perder el estilo original.
+
+- Perfil nuevo: https://github.com/AndresBlancoSierra
+- Repo de perfil: https://github.com/AndresBlancoSierra/AndresBlancoSierra

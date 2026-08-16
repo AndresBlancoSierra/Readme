@@ -1,0 +1,47 @@
+name: README build
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pillow
+
+      - name: Generate profile SVGs
+        env:
+          USER_NAME: AndresBlancoSierra
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python generate_readme.py
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AndresBlancoSierra
+          outputs: |
+            dist/github-snake.svg?color_snake=%2300ff41&color_dots=%23f0faf3,%23cdeedd,%2386d9a6,%2339ff14,%2300ff41
+            dist/github-snake-dark.svg?color_snake=%2300ff41&color_dots=%23050a07,%230f2a17,%2300cc33,%2339ff14,%2300ff41
+
+      - name: Commit changes
+        run: |
+          git add dark_mode.svg light_mode.svg project-*.svg contact.svg streak.svg dist/github-snake.svg dist/github-snake-dark.svg
+          git diff --quiet && git diff --cached --quiet && echo "Sin cambios" || (
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Actualizar stats del perfil"
+            git push
+          )

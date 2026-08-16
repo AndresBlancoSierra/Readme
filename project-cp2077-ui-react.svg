@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="814px" height="144px" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="814px" height="144px" font-family="Consolas,Menlo,monospace" font-size="16px">
 <defs>
 <style>
 text {{ white-space: pre; }}
 </style>
 </defs>
-<g id="constellations-bg" opacity="0.6">
-  <!-- SGR (Sagittarius) -->
-  <circle cx="626.0" cy="112.7" r="1.1" fill="#f4f4f5" opacity="0.23"/>
-  <circle cx="621.9" cy="27.4" r="1.3" fill="#f4f4f5" opacity="0.27"/>
-  <circle cx="315.1" cy="20.5" r="1.4" fill="#f4f4f5" opacity="0.27"/>
-  <circle cx="139.4" cy="113.0" r="1.1" fill="#f4f4f5" opacity="0.35"/>
-  <circle cx="758.6" cy="80.4" r="1.1" fill="#f4f4f5" opacity="0.32"/>
-  <circle cx="101.9" cy="21.1" r="1.4" fill="#f4f4f5" opacity="0.29"/>
-  <circle cx="213.3" cy="87.1" r="1.3" fill="#f4f4f5" opacity="0.32"/>
-  <circle cx="27.9" cy="88.5" r="1.6" fill="#f4f4f5" opacity="0.24"/>
-  <!-- VEL (Vela) -->
-  <circle cx="638.2" cy="51.9" r="0.9" fill="#f4f4f5" opacity="0.28"/>
-  <circle cx="208.4" cy="58.5" r="1.0" fill="#f4f4f5" opacity="0.36"/>
-  <circle cx="79.1" cy="22.9" r="1.2" fill="#f4f4f5" opacity="0.22"/>
-  <circle cx="230.7" cy="97.1" r="1.4" fill="#f4f4f5" opacity="0.36"/>
-  <line x1="230.7" y1="97.1" x2="208.4" y2="58.5" stroke="#a1a1aa" stroke-width="0.5" opacity="0.2"/>
-  <!-- CAR (Carina) -->
-  <circle cx="570.1" cy="106.0" r="1.1" fill="#f4f4f5" opacity="0.24"/>
-  <circle cx="179.2" cy="98.7" r="1.2" fill="#f4f4f5" opacity="0.23"/>
-  <circle cx="241.0" cy="25.9" r="1.7" fill="#f4f4f5" opacity="0.26"/>
-  <circle cx="792.8" cy="106.9" r="1.1" fill="#f4f4f5" opacity="0.36"/>
-  <line x1="179.2" y1="98.7" x2="241.0" y2="25.9" stroke="#a1a1aa" stroke-width="0.5" opacity="0.2"/>
-  <!-- CMi (Canis Minor) -->
-  <circle cx="317.5" cy="128.3" r="1.2" fill="#f4f4f5" opacity="0.22"/>
-  <circle cx="504.9" cy="105.7" r="1.0" fill="#f4f4f5" opacity="0.34"/>
-  <circle cx="670.4" cy="38.6" r="1.1" fill="#f4f4f5" opacity="0.33"/>
-  <circle cx="413.8" cy="72.2" r="1.7" fill="#f4f4f5" opacity="0.27"/>
-  <line x1="413.8" y1="72.2" x2="504.9" y2="105.7" stroke="#a1a1aa" stroke-width="0.5" opacity="0.2"/>
-  <!-- PYX (Pyxis) -->
-  <circle cx="487.3" cy="38.8" r="1.0" fill="#f4f4f5" opacity="0.36"/>
-  <circle cx="214.5" cy="128.6" r="1.7" fill="#f4f4f5" opacity="0.36"/>
-  <circle cx="115.6" cy="18.0" r="0.9" fill="#f4f4f5" opacity="0.26"/>
-  <circle cx="665.9" cy="119.1" r="1.8" fill="#f4f4f5" opacity="0.38"/>
-  <circle cx="326.3" cy="77.7" r="1.7" fill="#f4f4f5" opacity="0.25"/>
-</g>
-<text x="18" y="24" fill="#f4f4f5" font-weight="bold">andres@arch</text><text x="123.6" y="24" fill="#a1a1aa" font-weight="bold">:~$ </text><text x="162.0" y="24" fill="#71717a" font-weight="bold"># ls cp2077-ui-react</text><g transform="translate(18, 32)"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z" fill="#f4f4f5"/></svg></g><text x="48" y="48" fill="#71717a">▸ </text><text x="67.2" y="48" fill="#f4f4f5">cp2077-ui-react</text><text x="48" y="72" fill="#a1a1aa">Cyberpunk 2077 UI replica in React 19 + TypeScript + Vite: hub, character,</text><text x="48" y="96" fill="#a1a1aa">cyberware, inventory and stats</text><text x="48" y="120" fill="#a1a1aa">→ https://github.com/AndresBlancoSierra/cp2077-ui-react</text></svg>
+<text x="18" y="24" fill="#00ff41" font-weight="bold">andres@arch</text><text x="123.6" y="24" fill="#00cc33" font-weight="bold">:~$ </text><text x="162.0" y="24" fill="#39ff14" font-weight="bold"># ls cp2077-ui-react</text><g transform="translate(18, 32)"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z" fill="#00ff41"/></svg></g><text x="48" y="48" fill="#39ff14">▸ </text><text x="67.2" y="48" fill="#00ff41">cp2077-ui-react</text><text x="48" y="72" fill="#00cc33">Cyberpunk 2077 UI replica in React 19 + TypeScript + Vite: hub, character,</text><text x="48" y="96" fill="#00cc33">cyberware, inventory and stats</text><text x="48" y="120" fill="#00cc33">→ https://github.com/AndresBlancoSierra/cp2077-ui-react</text></svg>
