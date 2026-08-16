@@ -5,4 +5,95 @@
 text {{ white-space: pre; }}
 </style>
 </defs>
+<g id="constellations-bg" opacity="0.35">
+  <!-- UMA -->
+  <circle cx="544.0" cy="146.5" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="547.2" cy="155.2" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="560.9" cy="153.3" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="561.8" cy="145.4" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="570.2" cy="140.4" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="576.9" cy="135.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="590.3" cy="135.8" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="544.0" y1="146.5" x2="547.2" y2="155.2" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="547.2" y1="155.2" x2="560.9" y2="153.3" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="560.9" y1="153.3" x2="561.8" y2="145.4" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="561.8" y1="145.4" x2="544.0" y2="146.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="561.8" y1="145.4" x2="570.2" y2="140.4" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="570.2" y1="140.4" x2="576.9" y2="135.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="576.9" y1="135.7" x2="590.3" y2="135.8" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- CAS -->
+  <circle cx="148.0" cy="142.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="136.4" cy="126.9" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="160.2" cy="128.6" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="173.5" cy="133.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="187.9" cy="120.5" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="136.4" y1="126.9" x2="148.0" y2="142.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="148.0" y1="142.0" x2="160.2" y2="128.6" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="160.2" y1="128.6" x2="173.5" y2="133.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="173.5" y1="133.0" x2="187.9" y2="120.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- LEO -->
+  <circle cx="539.5" cy="290.5" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="586.4" cy="299.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="549.2" cy="278.6" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="572.7" cy="284.3" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="570.0" cy="293.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="550.1" cy="271.8" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="550.1" y1="271.8" x2="549.2" y2="278.6" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="549.2" y1="278.6" x2="570.0" y2="293.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="570.0" y1="293.7" x2="539.5" y2="290.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="539.5" y1="290.5" x2="572.7" y2="284.3" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="572.7" y1="284.3" x2="586.4" y2="299.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="549.2" y1="278.6" x2="572.7" y2="284.3" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- SCO -->
+  <circle cx="148.0" cy="286.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="179.2" cy="302.4" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="182.3" cy="314.9" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="133.3" cy="282.3" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="133.9" cy="276.2" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="178.1" cy="302.9" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="144.0" cy="285.3" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="133.9" y1="276.2" x2="133.3" y2="282.3" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="133.3" y1="282.3" x2="144.0" y2="285.3" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="144.0" y1="285.3" x2="148.0" y2="286.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="148.0" y1="286.0" x2="182.3" y2="314.9" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="182.3" y1="314.9" x2="179.2" y2="302.4" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="179.2" y1="302.4" x2="178.1" y2="302.9" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- CYG -->
+  <circle cx="247.0" cy="135.2" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="238.7" cy="142.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="211.7" cy="158.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="244.7" cy="155.9" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="229.6" cy="130.4" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="254.1" cy="164.6" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="244.7" y1="155.9" x2="229.6" y2="130.4" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="238.7" y1="142.7" x2="244.7" y2="155.9" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="238.7" y1="142.7" x2="254.1" y2="164.6" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="247.0" y1="135.2" x2="238.7" y2="142.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="238.7" y1="142.7" x2="211.7" y2="158.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- CRU -->
+  <circle cx="454.0" cy="133.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="464.0" cy="107.8" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="446.5" cy="95.3" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="436.8" cy="109.5" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="445.0" cy="117.8" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="446.5" y1="95.3" x2="454.0" y2="133.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="464.0" y1="107.8" x2="436.8" y2="109.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="446.5" y1="95.3" x2="436.8" y2="109.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="464.0" y1="107.8" x2="454.0" y2="133.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="454.0" y1="133.0" x2="445.0" y2="117.8" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <!-- SGR -->
+  <circle cx="242.5" cy="304.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="263.6" cy="271.7" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="270.5" cy="284.5" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="237.5" cy="288.0" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="240.7" cy="271.1" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <circle cx="226.1" cy="292.2" r="1.2" fill="#f4f4f5" opacity="0.4"/>
+  <line x1="226.1" y1="292.2" x2="242.5" y2="304.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="242.5" y1="304.0" x2="237.5" y2="288.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="237.5" y1="288.0" x2="263.6" y2="271.7" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="263.6" y1="271.7" x2="270.5" y2="284.5" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="270.5" y1="284.5" x2="240.7" y2="271.1" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="240.7" y1="271.1" x2="237.5" y2="288.0" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+  <line x1="240.7" y1="271.1" x2="226.1" y2="292.2" stroke="#52525b" stroke-width="0.5" opacity="0.3"/>
+</g>
 <text x="18" y="24" fill="#f4f4f5" font-weight="bold">andres@arch</text><text x="123.6" y="24" fill="#a1a1aa" font-weight="bold">:~$ </text><text x="162.0" y="24" fill="#71717a" font-weight="bold"># ls english-capture</text><g transform="translate(18, 32)"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z" fill="#f4f4f5"/></svg></g><text x="48" y="48" fill="#71717a">▸ </text><text x="67.2" y="48" fill="#f4f4f5">english-capture</text><text x="48" y="72" fill="#a1a1aa">Global text capture for learning English: select an area, OCR with Tesseract,</text><text x="48" y="96" fill="#a1a1aa">SQLite storage</text><text x="48" y="120" fill="#a1a1aa">→ https://github.com/AndresBlancoSierra/english-capture</text></svg>
