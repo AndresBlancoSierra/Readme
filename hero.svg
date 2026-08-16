@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15">
+<defs>
+<style>
+  text { white-space: pre; }
+  .fg    { fill: #f4f4f5; }
+  .muted { fill: #a1a1aa; }
+  .dim   { fill: #71717a; }
+  .faint { fill: #52525b; }
+  .line  { fill: #2e2e33; }
+  .signal{ fill: #7da2c9; }
+  .caret { animation: blink 1s steps(1,end) infinite; }
+  .star  { animation: twinkle 5s ease-in-out infinite; }
+  .starb { animation: twinkle 7s ease-in-out infinite; }
+  @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+  @keyframes twinkle { 0%,100% { opacity: 0.15; } 50% { opacity: 0.7; } }
+  @media (prefers-reduced-motion: reduce) {
+    .caret, .star, .starb { animation: none !important; }
+  }
+</style>
+</defs>
+
+<rect width="720" height="410" fill="#050505"/>
+<rect x="1" y="1" width="718" height="408" fill="none" stroke="#1f1f23" stroke-width="1"/>
+
+<g class="faint">
+  <circle class="star"  cx="48"  cy="40"  r="0.9"/>
+  <circle class="starb" cx="68"  cy="300" r="1.1"/>
+  <circle class="star"  cx="110" cy="60"  r="0.9"/>
+  <circle class="starb" cx="150" cy="250" r="1.1"/>
+  <circle class="star"  cx="40"  cy="200" r="0.9"/>
+  <circle class="starb" cx="80"  cy="380" r="1.1"/>
+  <circle class="star"  cx="140" cy="390" r="0.9"/>
+  <circle class="starb" cx="330" cy="25"  r="1.1"/>
+  <circle class="star"  cx="700" cy="25"  r="0.9"/>
+  <circle class="starb" cx="680" cy="60"  r="1.1"/>
+  <circle class="star"  cx="360" cy="395" r="0.9"/>
+  <circle class="starb" cx="655" cy="380" r="1.1"/>
+  <circle class="star"  cx="700" cy="290" r="0.9"/>
+  <circle class="starb" cx="665" cy="250" r="1.1"/>
+  <circle class="star"  cx="50"  cy="350" r="0.9"/>
+</g>
+
+<text x="24" y="28" xml:space="preserve">
+  <tspan class="muted">andres@blanco</tspan>
+  <tspan class="dim">:~$</tspan>
+</text>
+<rect class="caret" x="177" y="15" width="2" height="13" fill="#71717a"/>
+<rect x="24" y="68" width="640" height="1" fill="#2e2e33"/>
+
+<text x="24" y="118" font-size="20"><tspan class="fg">Andres Blanco</tspan></text>
+<text x="24" y="158"><tspan class="muted">Systems Engineering Student</tspan></text>
+<text x="24" y="186"><tspan class="muted">Bogotá · Colombia</tspan></text>
+
+<text x="24" y="242"><tspan class="dim">software · cloud · security · linux</tspan></text>
+
+<text x="24" y="294"><tspan class="signal">open to work</tspan></text>
+
+<text x="24" y="350"><tspan class="dim">i build systems.</tspan></text>
+<text x="24" y="378"><tspan class="dim">i study how they work.</tspan></text>
+
+<text x="480" y="142" xml:space="preserve"><tspan class="faint">       </tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="170" xml:space="preserve"><tspan class="faint">       |</tspan></text>
+<text x="480" y="198" xml:space="preserve"><tspan class="faint">  </tspan><tspan class="muted">*</tspan><tspan class="faint">----+----</tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="226" xml:space="preserve"><tspan class="faint">       |</tspan></text>
+<text x="480" y="254" xml:space="preserve"><tspan class="faint">   </tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan><tspan class="faint">---</tspan><tspan class="muted">*</tspan></text>
+<text x="480" y="282" xml:space="preserve"><tspan class="faint">      / \</tspan></text>
+<text x="480" y="310" xml:space="preserve"><tspan class="faint">     /   \</tspan></text>
+<text x="480" y="338" xml:space="preserve"><tspan class="faint">    </tspan><tspan class="muted">*</tspan><tspan class="faint">     </tspan><tspan class="muted">*</tspan></text>
+</svg>
